@@ -15,4 +15,7 @@ Open the page http://localhost:8000/index.html and fill the entries:
 <br>
 Now, you get the data in HTML pharagraph format.
 <br>
+  ![image](https://github.com/sathees-saty/express-POST-paragraph/assets/65384711/e4c3cb7b-0bb3-423e-8cf5-87de15249463)
+
+  <br>
 </html>
